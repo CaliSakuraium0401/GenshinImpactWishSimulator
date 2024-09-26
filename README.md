@@ -1,6 +1,6 @@
 # Genshin Impact Wish Simulator
 
-![the_four_playable_archons](https://upload-os-bbs.hoyolab.com/upload/2022/11/11/186827168/1e38cb96375619089abe04cb0ee3ddf6_2588154792098423251.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp)
+![five_archons](https://static.wikia.nocookie.net/gensin-impact/images/4/45/Version_5.0_Wallpaper_3.png/revision/latest/scale-to-width-down/1000?cb=20240921043829)
 
 Genshin Impact is an open-world RPG where you can explore the nations, play throughout the overarching story, and master the games combat through the combinations of different elements and their reactions toward eachother. This is a program designed to replicate/simulate the wishing/gacha system used in order to get more characters and weapons. 
 
