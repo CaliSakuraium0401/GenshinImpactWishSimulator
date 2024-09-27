@@ -35,5 +35,5 @@ def get_banner_data(character_data, d_version, date=None):
     return banner_data
 
 # Example / testing code.
-chanson_of_many_waters = get_banner_data(character_data, 4.2)
-print(chanson_of_many_waters)
+# chanson_of_many_waters = get_banner_data(character_data, 4.2)
+# print(chanson_of_many_waters)
